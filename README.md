@@ -43,7 +43,7 @@ Data returned -
 * quote - Quote itself
 * author - Author of quote
 
-## Currence (x-rates.com)
+## Currency (x-rates.com)
 Available scrapers - 
 * exchange - Exchange rates for foreign currencies again INR
 
