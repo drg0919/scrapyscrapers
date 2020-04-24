@@ -45,7 +45,7 @@ Data returned -
 
 ## Currency (x-rates.com)
 Available scrapers - 
-* exchange - Exchange rates for foreign currencies again INR
+* exchange - Exchange rates for foreign currencies against INR
 
 Data returned - 
 * currency - Name of foreign currency
