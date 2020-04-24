@@ -3,8 +3,8 @@ Scraping various resources with Scrapy
 
 ## Running scrapers
 1. cd to the scraper
-2. Run 'scrapy crawl <scrapername>'
-3. To output data into json or csv, add '-o <filename>.<extension>' to command in point 2.
+2. Run `scrapy crawl (scrapername)`
+3. To output data into json or csv, add  `-o (filename).(extension)` to command in point 2.
 
 ## IMDb
 Available scrapers - 
