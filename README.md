@@ -9,6 +9,7 @@ Scraping various resources with Scrapy
 ## IMDb
 Available scrapers - 
 * best_movies - Top 250 movies listed on IMDb
+
 Data Returned - 
 * title - Title of the movie
 * year - Year of release
@@ -21,6 +22,7 @@ Data Returned -
 Available scrapers - 
 * positive_breakouts - Positive breakout stocks
 * negative_breakouts - Negative breakout stocks
+
 Data returned - 
 * title - Name of stock
 * current - Current price
@@ -33,8 +35,10 @@ Data returned -
 ## Goodreads
 Additional setup - 
 * Place 'chromedriver' in the root folder ie, inside 'goodreads' folder
+
 Availabe scrapers - 
 * quotes - Quotes on goodreads homepage
+
 Data returned - 
 * quote - Quote itself
 * author - Author of quote
@@ -42,6 +46,7 @@ Data returned -
 ## Currence (x-rates.com)
 Available scrapers - 
 * exchange - Exchange rates for foreign currencies again INR
+
 Data returned - 
 * currency - Name of foreign currency
 * rate - Exchange rate
